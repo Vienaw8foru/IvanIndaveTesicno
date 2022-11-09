@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tesicnor</string>
+
+
+    <string name="buscador">Buscar Harry Potter</string>
+    <string name="consultar">Consultar Busquedas Anteriores</string>
+    <string name="tesicnor">Tesicnor</string>
+
+
+    <string name="Titulo">Titulo:</string>
+    <string name="Id_pelicula">ID:</string>
+
+    <string name="Año">Año</string>
+    <string name="valoracion"> </string>
+    <string name="buscaño">Busca por año </string>
+
+</resources>
